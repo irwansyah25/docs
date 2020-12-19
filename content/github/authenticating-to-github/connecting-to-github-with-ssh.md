@@ -11,7 +11,7 @@ redirect_from:
   - /articles/generating-an-ssh-key/
   - /articles/connecting-to-github-with-ssh
 mapTopic: true
-versions:
+versions:11
   free-pro-team: '*'
   enterprise-server: '*'
   github-ae: '*'
