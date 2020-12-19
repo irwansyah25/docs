@@ -1,4 +1,4 @@
----
+Telkomsel free---
 title: Locking conversations
 intro: 'Repository owners and collaborators, and people with write access to a repository, can lock conversations on issues, pull requests, and commits permanently or temporarily to defuse a heated interaction.'
 redirect_from:
